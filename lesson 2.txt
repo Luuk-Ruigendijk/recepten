@@ -1,0 +1,10 @@
+css: #pink
+html: na p id="pink"
+
+.purple
+
+na p class="purple"
+
+margin: 0 auto;
+padding = space between walls inside element
+
